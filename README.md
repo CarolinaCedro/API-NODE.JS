@@ -1,2 +1,2 @@
-# artigo_sequelize
-Exemplo utilizado no artigo sobre Sequelize ORM
+# API NODE JS
+Exemplo utilizado na api sobre Sequelize ORM
